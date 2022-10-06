@@ -1,6 +1,6 @@
 # Form/database demo project
 
-This is a demo form/database project created for some interviews in October 2022.
+This is a form/database project created just as a demo.
 
 # Architectural overview
 
